@@ -1,0 +1,4 @@
+Adam 0
+Bernie 0
+Charlie 2
+Dill 1
